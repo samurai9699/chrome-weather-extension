@@ -1,6 +1,6 @@
-# Weather Extension
+# TempScope: Chrome Weather Extension
 
-#### Video Demo: [Add Your Video URL Here]
+#### Video Demo: [https://www.youtube.com/watch?v=D-rP3IGyG1s]
 
 ---
 
@@ -102,9 +102,9 @@ To install and use the Weather Extension:
 
 For any questions or feedback, feel free to reach out:
 
-- **Name:** [Your Name]
-- **GitHub:** [Your GitHub Username]
-- **Email:** [Your Email Address]
+- **Name:** [Sam Muriithi]
+- **GitHub:** [samurai9699]
+- **Email:** [samuelmuriithi965@gmail.com]
 
 ---
 
