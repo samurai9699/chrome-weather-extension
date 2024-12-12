@@ -11,8 +11,7 @@ The Weather Extension is a lightweight browser extension that provides users wit
 ### Key Features
 - **Real-Time Weather Updates:** Instantly displays the current temperature, humidity, and weather conditions for your chosen location.
 - **Search Functionality:** Easily search for weather details by city name or geolocation.
-- **Customizable Interface:** Choose between light and dark themes for better visibility.
-- **Detailed Forecasts:** View hourly and weekly forecasts at a glance.
+
 
 The project addresses the need for quick, accessible weather information, making it perfect for daily planning and travel.
 
